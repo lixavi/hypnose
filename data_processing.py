@@ -30,3 +30,69 @@ def remove_stopwords(tokens):
     stopwords = ["the", "and", "is", "in", "it", "to", "a"]  # Example list of stopwords
     filtered_tokens = [token for token in tokens if token not in stopwords]
     return filtered_tokens
+def remove_stopwords(tokens):
+    stopwords = ["the", "and", "is", "in", "it", "to", "a"]  # Example list of stopwords
+    filtered_tokens = [token for token in tokens if token not in stopwords]
+    return filtered_tokens
+    def remove_stopwords(tokens):
+    stopwords = ["the", "and", "is", "in", "it", "to", "a"]  # Example list of stopwords
+    filtered_tokens = [token for token in tokens if token not in stopwords]
+    return filtered_tokens
+    def remove_stopwords(tokens):
+    stopwords = ["the", "and", "is", "in", "it", "to", "a"]  # Example list of stopwords
+    filtered_tokens = [token for token in tokens if token not in stopwords]
+    return filtered_tokensdef remove_stopwords(tokens):
+    stopwords = ["the", "and", "is", "in", "it", "to", "a"]  # Example list of stopwords
+    filtered_tokens = [token for token in tokens if token not in stopwords]
+    return filtered_tokensdef remove_stopwords(tokens):
+    stopwords = ["the", "and", "is", "in", "it", "to", "a"]  # Example list of stopwords
+    filtered_tokens = [token for token in tokens if token not in stopwords]
+    return filtered_tokensdef remove_stopwords(tokens):
+    stopwords = ["the", "and", "is", "in", "it", "to", "a"]  # Example list of stopwords
+    filtered_tokens = [token for token in tokens if token not in stopwords]
+    return filtered_tokensdef remove_stopwords(tokens):
+    stopwords = ["the", "and", "is", "in", "it", "to", "a"]  # Example list of stopwords
+    filtered_tokens = [token for token in tokens if token not in stopwords]
+    return filtered_tokensdef remove_stopwords(tokens):
+    stopwords = ["the", "and", "is", "in", "it", "to", "a"]  # Example list of stopwords
+    filtered_tokens = [token for token in tokens if token not in stopwords]
+    return filtered_tokensdef remove_stopwords(tokens):
+    stopwords = ["the", "and", "is", "in", "it", "to", "a"]  # Example list of stopwords
+    filtered_tokens = [token for token in tokens if token not in stopwords]
+    return filtered_tokensdef remove_stopwords(tokens):
+    stopwords = ["the", "and", "is", "in", "it", "to", "a"]  # Example list of stopwords
+    filtered_tokens = [token for token in tokens if token not in stopwords]
+    return filtered_tokensdef remove_stopwords(tokens):
+    stopwords = ["the", "and", "is", "in", "it", "to", "a"]  # Example list of stopwords
+    filtered_tokens = [token for token in tokens if token not in stopwords]
+    return filtered_tokensdef remove_stopwords(tokens):
+    stopwords = ["the", "and", "is", "in", "it", "to", "a"]  # Example list of stopwords
+    filtered_tokens = [token for token in tokens if token not in stopwords]
+    return filtered_tokensdef remove_stopwords(tokens):
+    stopwords = ["the", "and", "is", "in", "it", "to", "a"]  # Example list of stopwords
+    filtered_tokens = [token for token in tokens if token not in stopwords]
+    return filtered_tokensdef remove_stopwords(tokens):
+    stopwords = ["the", "and", "is", "in", "it", "to", "a"]  # Example list of stopwords
+    filtered_tokens = [token for token in tokens if token not in stopwords]
+    return filtered_tokensdef remove_stopwords(tokens):
+    stopwords = ["the", "and", "is", "in", "it", "to", "a"]  # Example list of stopwords
+    filtered_tokens = [token for token in tokens if token not in stopwords]
+    return filtered_tokensdef remove_stopwords(tokens):
+    stopwords = ["the", "and", "is", "in", "it", "to", "a"]  # Example list of stopwords
+    filtered_tokens = [token for token in tokens if token not in stopwords]
+    return filtered_tokensdef remove_stopwords(tokens):
+    stopwords = ["the", "and", "is", "in", "it", "to", "a"]  # Example list of stopwords
+    filtered_tokens = [token for token in tokens if token not in stopwords]
+    return filtered_tokensdef remove_stopwords(tokens):
+    stopwords = ["the", "and", "is", "in", "it", "to", "a"]  # Example list of stopwords
+    filtered_tokens = [token for token in tokens if token not in stopwords]
+    return filtered_tokensdef remove_stopwords(tokens):
+    stopwords = ["the", "and", "is", "in", "it", "to", "a"]  # Example list of stopwords
+    filtered_tokens = [token for token in tokens if token not in stopwords]
+    return filtered_tokensdef remove_stopwords(tokens):
+    stopwords = ["the", "and", "is", "in", "it", "to", "a"]  # Example list of stopwords
+    filtered_tokens = [token for token in tokens if token not in stopwords]
+    return filtered_tokensdef remove_stopwords(tokens):
+    stopwords = ["the", "and", "is", "in", "it", "to", "a"]  # Example list of stopwords
+    filtered_tokens = [token for token in tokens if token not in stopwords]
+    return filtered_tokens
